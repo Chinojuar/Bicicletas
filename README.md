@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![MDB Logo](https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-angular.png)
 
 # MDB 5 Angular
@@ -193,3 +194,6 @@ Trusted by <b>2 000 000+</b> developers & designers. Used by companies like
 </table>
 
 and more.
+=======
+# Bicicletas
+>>>>>>> 7e2606915df211e2e726463b27ccc3aba693fb61
